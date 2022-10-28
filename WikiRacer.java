@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Set;
 
 /*
- * name: Daniel Gil
+ * author: Daniel Gil
  * purpose: this class finds the path between two wikipedia websites
  * and returns the path (ladder) that can be taken to get from
  * one wikipedia article to the target article.
