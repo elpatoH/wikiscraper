@@ -5,7 +5,6 @@ import java.util.Set;
 
 /*
  * name: Daniel Gil
- * class: csc210
  * purpose: this class finds the path between two wikipedia websites
  * and returns the path (ladder) that can be taken to get from
  * one wikipedia article to the target article.
